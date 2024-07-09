@@ -51,20 +51,15 @@ sh
    git clone https://github.com/seu_usuario/ProjetoRedesNeurais.git
    cd ProjetoRedesNeurais
 ```
-2. 
-   ```sh
-   git clone https://github.com/seu_usuario/ProjetoRedesNeurais.git
-   cd ProjetoRedesNeurais
+2. Instale as dependências necessárias:
+```
+   pip install numpy
+```
    
-3. Instale as dependências necessárias:
-   ```
-  pip install numpy
-   ```
-3. Execute o script projeto_1.py:
-   ```
+3.  Execute o script projeto_1.py:
+```
   python projeto_1.py
-   ```
-
+```
 
 ### **Estrutura do Projeto**
 
