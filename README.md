@@ -57,27 +57,3 @@ Para executar este projeto, siga os passos abaixo:
    ```
   python projeto_1.py
    ```
-
-### **Estrutura do Projeto**
-   ```
-ProjetoRedesNeurais/
-├── Modelo.py
-├── projeto_1.py
-├── README.md
-└── dados/
-    ├── mnist_train.csv
-    └── mnist_test.csv
-  ```
-
-## Resultados
-Os resultados experimentais demonstram a eficácia da rede neural desenvolvida, alcançando uma alta precisão na classificação de dígitos na base de dados MNIST.
-
-## Conclusão
-Este projeto destaca o potencial das redes neurais para resolver problemas complexos de reconhecimento de padrões e fornece insights sobre o design e a otimização desses modelos. A implementação de uma rede neural para a classificação de dígitos manuscritos mostrou-se eficiente, mesmo na presença de ruído nos dados.
-
-## Referências
-- LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
-- Base de dados MNIST
-
-## Contato
-Para mais informações, entre em contato com os autores através dos emails institucionais fornecidos pela Universidade de São Paulo (USP).
